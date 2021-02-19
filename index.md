@@ -8,10 +8,6 @@ This site is currently under construction and will be online soon. Thank you for
 2.  Two
 3.  ..
 
-### And a small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
 
 
 r.
