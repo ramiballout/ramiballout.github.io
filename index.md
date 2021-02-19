@@ -1,5 +1,5 @@
 # Welcome **beek**
-This site is currently under construction ans will be online soon! 
+This site is currently under construction and will be online soon! 
 
 Thank you for visiting!
 R.
