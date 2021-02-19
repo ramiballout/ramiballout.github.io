@@ -5,11 +5,11 @@ This site is currently under construction and will be online soon. Thank you for
 ## Here is an ordered list:
 
 1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+2.  Two
+3.  ..
 
-### Small image
+### And a small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
+#### R.
