@@ -2,25 +2,30 @@
 
 This site is currently under construction and will be online soon. Thank you for visiting!
 
-## Header 2
+## Here is ordered list:
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
 
-### Header 3
+### And a nested list:
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
